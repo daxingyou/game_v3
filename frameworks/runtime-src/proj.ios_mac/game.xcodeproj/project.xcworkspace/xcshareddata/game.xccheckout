@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C4DE8005-697C-4726-BD40-15825BF97733</string>
+	<key>IDESourceControlProjectName</key>
+	<string>game</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1105C758-B4D7-4169-A277-540DE52C75E9</key>
+		<string>http://192.168.0.200:8080/svn/code/trunk_v3</string>
+		<key>60722CCE-D4C6-400B-9ECE-E51E34AA39FA</key>
+		<string>https://github.com/wspGreen/game_v3.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>game/frameworks/runtime-src/proj.ios_mac/game.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1105C758-B4D7-4169-A277-540DE52C75E9</key>
+		<string>../../../../../..</string>
+		<key>60722CCE-D4C6-400B-9ECE-E51E34AA39FA</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1105C758-B4D7-4169-A277-540DE52C75E9</key>
+		<string>http://192.168.0.200:8080/svn/code</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wspGreen/game_v3.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1105C758-B4D7-4169-A277-540DE52C75E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>60722CCE-D4C6-400B-9ECE-E51E34AA39FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>game</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1105C758-B4D7-4169-A277-540DE52C75E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>trunk_v3</string>
+		</dict>
+	</array>
+</dict>
+</plist>
