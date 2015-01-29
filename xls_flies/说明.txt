@@ -1,0 +1,22 @@
+物品
+comitem.xls 	消耗品表
+debris.xls	碎片表
+drop_box.xls	掉落表
+equip.xls	装备表
+equip_enhance.xls	装备强化表
+gem.xls		宝石表
+item_compound.xls	物品合成
+material.xls	材料表
+
+武将
+heros.xls	武将表
+skill.xls	技能表
+
+stages.xls	关卡表
+
+home.xls	home配置
+
+hero_exp.xls	武将升级需求经验表
+player_exp.xls	玩家经验表
+
+mission 任务表
